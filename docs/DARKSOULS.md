@@ -88,7 +88,8 @@ Herramientas, Rutas, Trucos y Consejos
 > _Strats no necesarias para Any%_
 
 * [**Early Gold Pine Resin**](https://youtu.be/0sfTp2rLS28?feature=shared&t=185) \- Salto para pillar el item de forma alternativa  
-* [**LUB Ladder Skip**](https://www.youtube.com/playlist?list=PLF7OwrkclEjXlzVnKgiQXcskJWpSERi8e) \- Get to Griggs early as any starting class  
+* [**LUB Ladder Skip**](https://www.youtube.com/playlist?list=PLF7OwrkclEjXlzVnKgiQXcskJWpSERi8e) \- Get to Griggs early as any starting class
+* [**LUB Dogs' RNG **](https://youtu.be/FU_0J8mWark?si=XyvJeDtHq0CPMcWo&t=9055) \- Castiga sólo este ataque de los perros
 * [**Sens Comarca**](https://www.youtube.com/watch?v=ihayB2UZXZE) \- Alternativa al putiaso con Sorcery  
 * [**Fast Slumbering**](https://www.youtube.com/watch?v=N0JwPGXN9jw) \- Strat rápida para anillo de sigilo de Sen  
 * **Faster NL Ghost Room** \- Sala de NL sin matar fantasmas / [Clip1](https://clips.twitch.tv/ZanyBeautifulBatteryDeIlluminati-LYURFfUi_nNxf0SR) / [Clip2](https://clips.twitch.tv/ProductiveBoldLyrebirdPartyTime-GcSdqnK2MVAvQ95U)  
