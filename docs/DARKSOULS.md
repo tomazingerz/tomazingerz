@@ -91,7 +91,8 @@ Herramientas, Rutas, Trucos y Consejos
 * [**LUB Ladder Skip**](https://www.youtube.com/playlist?list=PLF7OwrkclEjXlzVnKgiQXcskJWpSERi8e) \- Get to Griggs early as any starting class
 * [**LUB Dogs' RNG**](https://youtu.be/FU_0J8mWark?si=XyvJeDtHq0CPMcWo&t=9055) \- Castiga sólo este ataque de los perros
 * [**Sens Comarca**](https://www.youtube.com/watch?v=ihayB2UZXZE) \- Alternativa al putiaso con Sorcery  
-* [**Fast Slumbering**](https://www.youtube.com/watch?v=N0JwPGXN9jw) \- Strat rápida para anillo de sigilo de Sen  
+* [**Fast Slumbering**](https://www.youtube.com/watch?v=N0JwPGXN9jw) \- Strat rápida para anillo de sigilo de Sen
+* [**Sens Return**](https://www.youtube.com/watch?v=UodcXWS3fFg) \- Safe spot para la serpiente de rayos
 * **Faster NL Ghost Room** \- Sala de NL sin matar fantasmas / [Clip1](https://clips.twitch.tv/ZanyBeautifulBatteryDeIlluminati-LYURFfUi_nNxf0SR) / [Clip2](https://clips.twitch.tv/ProductiveBoldLyrebirdPartyTime-GcSdqnK2MVAvQ95U)  
 * **Insane Strafe** \- Sala de NL sin baitear fantasmas / [Clip1](https://clips.twitch.tv/BraveSingleBeaverChocolateRain-wsY_hye5XaEESzWZ) / [Clip2](https://clips.twitch.tv/NaiveAdventurousKeyboardSoBayed-fMucAWnNmS3ky0u3) / [Pathing](https://pbs.twimg.com/media/GmKpK-Oa8AAxg6S?format=jpg&name=large)  
 * [**Duke Skip Fall Control**](https://www.youtube.com/watch?v=L_l4D9eOVsY) \- Strat para runs No Damage  
