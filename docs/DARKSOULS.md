@@ -24,7 +24,7 @@ Herramientas, Rutas, Trucos y Consejos
 * [**Bombatruco**](https://www.youtube.com/watch?v=3lT8AN2Sdf4) \- Script de Gárgolas / [Version 2](https://www.youtube.com/watch?v=krU51U1PUfE)  
 * [**Lower Burg Skip**](https://www.youtube.com/watch?v=wLD0r97b7-U) \- Salto para liberar Griggs en Híbrida% / [Ruta](https://www.youtube.com/watch?v=buI7PkZ2EnQ)  
 * [**Lower Burg Normal**](https://www.youtube.com/watch?v=I1CqLmGTNMM) \- DeAggro con flechas  
-* [**Blighttown**](https://www.youtube.com/watch?v=EByp_a0WAsU) \- Rutas para el camino a Quelaag / [Best](https://youtu.be/LjKN7jJarPU)  
+* [**Blighttown**](https://www.youtube.com/watch?v=EByp_a0WAsU) \- Rutas para el camino a Quelaag / [Best](https://youtu.be/LjKN7jJarPU) / [Palotruco](https://youtu.be/ajm3qtJwG64)
 * [**Easy CHB**](https://www.youtube.com/watch?v=LXda7uj2T0g) \- Pick CHB del mímico de forma safe  
 * **Anor Londo** \- Método safe / [1](https://youtube.com/clip/Ugkxo-LU3mcwXPmZ43CogqOAVUfXtZqIj11L?si=2bK-BC7hM5ZklUZm) / [2](https://clips.twitch.tv/SarcasticAuspiciousKangarooKappaPride-3NyjRtdFCzi9ZsRz)  
 * [**Safest New Londo**](https://www.youtube.com/watch?v=Ckw7_rFDF68&t=5389) \- Strat killing all ghosts  
