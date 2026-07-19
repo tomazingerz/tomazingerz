@@ -4,13 +4,15 @@ Herramientas, Rutas, Trucos y Consejos
 ## Tools  
 > _Recomendado para rutear/jugar_
 
+* **Practise Tools**  
+  * [**DSR Gadget**](https://github.com/Nordgaren/DSR-Gadget-Local-Loader/releases) \- No Death, TP, Spawn Item, etc / Incluye Modo Online Safe `Recomendado`
+  * [**Silky Souls**](https://github.com/borgCode/SilkySouls/releases) \- No Clip, All in One Tool, extra features / Uso en Steam Offline `Alternativa`
+* **Contador de Hits**  
+  * [**Autosplitter**](https://github.com/borgCode/AutoHitCounter) \- Simple Hit Counter for From Software games `Recomendado`
+  * [**Hit Tracker**](https://github.com/valkyaha/HitTracker-Release/releases) \- OBS integration, autosplitter support, and multi-run tracking. `Alternativa`  
 * [**Save organizer**](https://github.com/Kahmul/SpeedSouls-Save-Organizer/releases) \- Organiza archivos de guardado / [Tutorial](https://www.youtube.com/watch?v=jL5eDgiyYXE)  
-* [**DSR Gadget**](https://github.com/Nordgaren/DSR-Gadget-Local-Loader/releases) \- No Death, TP, Spawn Item, etc / Incluye Modo Online Safe `Recomendado`  
-* [**Silky Souls**](https://github.com/borgCode/SilkySouls/releases) \- No Clip, All in One Tool, extra features / Uso en Steam Offline `Alternativa`  
 * [**Gadgetlemage**](https://github.com/CapitaineToinon/Gadgetlemage) \- Farmea armas de BK automaticamente  
 * [**Configuración previa**](config.md) \- HUD, Brillo, Controles  
-* [**Autosplitter**](https://github.com/borgCode/AutoHitCounter) \- Simple Hit Counter for From Software games `Recomendado`  
-* [**Hit Tracker**](https://github.com/valkyaha/HitTracker-Release/releases) \- OBS integration, autosplitter support, and multi-run tracking. `Alternativa`  
 * [**Wiki**](http://darksouls.wikidot.com/) \- Info de Items, Clases, Armas, NPC, etc  
 * [**Character planner**](https://www.mugenmonkey.com/darksouls) \- Calcula tu build  
 * [**Bug fixes**](config.md) \- QOL Details  
