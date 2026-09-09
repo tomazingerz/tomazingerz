@@ -82,7 +82,8 @@ Herramientas, Rutas, Trucos y Consejos
 * [**Priscila**](https://youtu.be/7W1oBIQ6-Zo) \- Boss AI break / [Area](https://youtu.be/IlBaMFMaj2M) / [Pic](https://pbs.twimg.com/media/HERGDS5XsAAazxR?format=jpg&name=large)  
 * **Mariposa** \- [Sorceries](https://www.youtube.com/watch?v=BhZn_wHReHo&t=10802s) / [Pyromancies](https://youtu.be/doxgDQTvwgY?si=qFxQg_ZYfMCqqCWA&t=10935)  
 * **Centipede** \- [Guia](https://www.youtube.com/watch?v=7nf5JfGmsBY)  
-* [**Rangeless BoC**](https://youtu.be/GhfAWBkT9KA) \- Lecho del Caos sin bombas  
+* [**Rangeless BoC**](https://youtu.be/GhfAWBkT9KA) \- Lecho del Caos sin bombas
+* **Manus** \- [Guia](https://www.youtube.com/watch?v=QJsno8Yb8uI)
 * **Goughless Kalameet** \- Pelea en el primer encuentro / [Esp](https://www.youtube.com/watch?v=OUcgYjWQfqY) / [Eng](https://www.youtube.com/watch?v=LVs_zw351HY)  
 * [**Gwyn Pyro**](https://youtu.be/TIp9v2Mdimg) \- Bucle con piromancia
 
